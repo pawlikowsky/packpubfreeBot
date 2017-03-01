@@ -8,7 +8,7 @@ Installation is realy simple. Create Telegram Bot using BotFather on Telegram.
 Create group chat or channel and add bot to it. If you are not familiar with Telegram bot API, read the docs.
 https://core.telegram.org/bots
 
-## Setings
+## Settings
 
 * Telegram bot token
 
